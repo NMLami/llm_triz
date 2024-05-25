@@ -1,0 +1,5 @@
+test_summarization_loop/
+patents_csv/
+chroma_db/
+db/
+db_triz/

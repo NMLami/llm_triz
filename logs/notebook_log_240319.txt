@@ -1,0 +1,604 @@
+[codecarbon WARNING @ 19:52:37] We saw that you have a Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz but we don't know it. Please contact us.
+[codecarbon INFO @ 19:52:37] CPU Model on constant consumption mode: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 19:52:37] >>> Tracker's metadata:
+[codecarbon INFO @ 19:52:37]   Platform system: Linux-5.4.0-174-generic-x86_64-with-glibc2.31
+[codecarbon INFO @ 19:52:37]   Python version: 3.12.1
+[codecarbon INFO @ 19:52:37]   CodeCarbon version: 2.4.1
+[codecarbon INFO @ 19:52:37]   Available RAM : 503.339 GB
+[codecarbon INFO @ 19:52:37]   CPU count: 112
+[codecarbon INFO @ 19:52:37]   CPU model: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 19:52:37]   GPU count: 2
+[codecarbon INFO @ 19:52:37]   GPU model: 2 x NVIDIA A40
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:52:56] Energy consumed for RAM : 0.000787 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:52:56] Energy consumed for all GPUs : 0.000997 kWh. Total GPU Power : 238.9223955279364 W
+[codecarbon INFO @ 19:52:56] Energy consumed for all CPUs : 0.000177 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:52:56] 0.001961 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:53:11] Energy consumed for RAM : 0.001573 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:53:11] Energy consumed for all GPUs : 0.002006 kWh. Total GPU Power : 242.61538064199485 W
+[codecarbon INFO @ 19:53:11] Energy consumed for all CPUs : 0.000354 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:53:11] 0.003933 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:53:26] Energy consumed for RAM : 0.002358 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:53:26] Energy consumed for all GPUs : 0.003024 kWh. Total GPU Power : 244.495722503203 W
+[codecarbon INFO @ 19:53:26] Energy consumed for all CPUs : 0.000532 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:53:26] 0.005914 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:53:41] Energy consumed for RAM : 0.003143 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:53:41] Energy consumed for all GPUs : 0.004057 kWh. Total GPU Power : 248.3947645806053 W
+[codecarbon INFO @ 19:53:41] Energy consumed for all CPUs : 0.000709 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:53:41] 0.007909 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:53:56] Energy consumed for RAM : 0.003928 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:53:56] Energy consumed for all GPUs : 0.005108 kWh. Total GPU Power : 252.38809656738874 W
+[codecarbon INFO @ 19:53:56] Energy consumed for all CPUs : 0.000886 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:53:56] 0.009922 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:54:11] Energy consumed for RAM : 0.004714 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:54:11] Energy consumed for all GPUs : 0.006165 kWh. Total GPU Power : 254.0861723283696 W
+[codecarbon INFO @ 19:54:11] Energy consumed for all CPUs : 0.001063 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:54:11] 0.011942 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:54:26] Energy consumed for RAM : 0.005499 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:54:26] Energy consumed for all GPUs : 0.007229 kWh. Total GPU Power : 255.5853802596838 W
+[codecarbon INFO @ 19:54:26] Energy consumed for all CPUs : 0.001240 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:54:26] 0.013968 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:54:41] Energy consumed for RAM : 0.006285 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:54:41] Energy consumed for all GPUs : 0.008291 kWh. Total GPU Power : 255.18967438733142 W
+[codecarbon INFO @ 19:54:41] Energy consumed for all CPUs : 0.001417 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:54:41] 0.015993 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:54:56] Energy consumed for RAM : 0.007070 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:54:56] Energy consumed for all GPUs : 0.009365 kWh. Total GPU Power : 257.9822673381891 W
+[codecarbon INFO @ 19:54:56] Energy consumed for all CPUs : 0.001594 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:54:56] 0.018029 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:55:11] Energy consumed for RAM : 0.007856 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:55:11] Energy consumed for all GPUs : 0.010447 kWh. Total GPU Power : 260.0004861963919 W
+[codecarbon INFO @ 19:55:11] Energy consumed for all CPUs : 0.001771 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:55:11] 0.020074 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:55:26] Energy consumed for RAM : 0.008641 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:55:26] Energy consumed for all GPUs : 0.011530 kWh. Total GPU Power : 260.4047603810561 W
+[codecarbon INFO @ 19:55:26] Energy consumed for all CPUs : 0.001948 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:55:26] 0.022119 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:55:41] Energy consumed for RAM : 0.009426 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:55:41] Energy consumed for all GPUs : 0.012616 kWh. Total GPU Power : 260.9399845662755 W
+[codecarbon INFO @ 19:55:41] Energy consumed for all CPUs : 0.002125 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:55:41] 0.024167 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:55:56] Energy consumed for RAM : 0.010212 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:55:56] Energy consumed for all GPUs : 0.013706 kWh. Total GPU Power : 261.72136505266616 W
+[codecarbon INFO @ 19:55:56] Energy consumed for all CPUs : 0.002302 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:55:56] 0.026220 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:56:11] Energy consumed for RAM : 0.010997 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:56:11] Energy consumed for all GPUs : 0.014795 kWh. Total GPU Power : 261.7776097445729 W
+[codecarbon INFO @ 19:56:11] Energy consumed for all CPUs : 0.002479 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:56:11] 0.028272 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:56:26] Energy consumed for RAM : 0.011783 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:56:26] Energy consumed for all GPUs : 0.015881 kWh. Total GPU Power : 260.7557837847903 W
+[codecarbon INFO @ 19:56:26] Energy consumed for all CPUs : 0.002656 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:56:26] 0.030320 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:56:41] Energy consumed for RAM : 0.012568 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:56:41] Energy consumed for all GPUs : 0.016970 kWh. Total GPU Power : 261.80342953975423 W
+[codecarbon INFO @ 19:56:41] Energy consumed for all CPUs : 0.002834 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:56:41] 0.032372 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:56:56] Energy consumed for RAM : 0.013353 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:56:56] Energy consumed for all GPUs : 0.018057 kWh. Total GPU Power : 261.29607882585935 W
+[codecarbon INFO @ 19:56:56] Energy consumed for all CPUs : 0.003011 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:56:56] 0.034421 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:57:11] Energy consumed for RAM : 0.014139 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:57:11] Energy consumed for all GPUs : 0.019147 kWh. Total GPU Power : 261.90580613531347 W
+[codecarbon INFO @ 19:57:11] Energy consumed for all CPUs : 0.003188 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:57:11] 0.036474 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:57:26] Energy consumed for RAM : 0.014924 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:57:26] Energy consumed for all GPUs : 0.020237 kWh. Total GPU Power : 261.8880424081624 W
+[codecarbon INFO @ 19:57:26] Energy consumed for all CPUs : 0.003365 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:57:26] 0.038526 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:57:41] Energy consumed for RAM : 0.015709 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:57:41] Energy consumed for all GPUs : 0.021327 kWh. Total GPU Power : 261.89651430736825 W
+[codecarbon INFO @ 19:57:41] Energy consumed for all CPUs : 0.003542 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:57:41] 0.040578 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:57:56] Energy consumed for RAM : 0.016495 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:57:56] Energy consumed for all GPUs : 0.022417 kWh. Total GPU Power : 261.71547709978256 W
+[codecarbon INFO @ 19:57:56] Energy consumed for all CPUs : 0.003719 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:57:56] 0.042630 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:58:11] Energy consumed for RAM : 0.017280 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:58:11] Energy consumed for all GPUs : 0.023504 kWh. Total GPU Power : 261.2964008333026 W
+[codecarbon INFO @ 19:58:11] Energy consumed for all CPUs : 0.003896 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:58:11] 0.044681 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:58:26] Energy consumed for RAM : 0.018066 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:58:26] Energy consumed for all GPUs : 0.024594 kWh. Total GPU Power : 261.81897586781974 W
+[codecarbon INFO @ 19:58:26] Energy consumed for all CPUs : 0.004073 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:58:26] 0.046733 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:58:41] Energy consumed for RAM : 0.018852 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:58:41] Energy consumed for all GPUs : 0.025682 kWh. Total GPU Power : 261.3841025267323 W
+[codecarbon INFO @ 19:58:41] Energy consumed for all CPUs : 0.004250 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:58:41] 0.048784 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:58:56] Energy consumed for RAM : 0.019637 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:58:56] Energy consumed for all GPUs : 0.026771 kWh. Total GPU Power : 261.4805526433235 W
+[codecarbon INFO @ 19:58:56] Energy consumed for all CPUs : 0.004427 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:58:56] 0.050835 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:59:11] Energy consumed for RAM : 0.020423 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:59:11] Energy consumed for all GPUs : 0.027860 kWh. Total GPU Power : 261.6219634093421 W
+[codecarbon INFO @ 19:59:11] Energy consumed for all CPUs : 0.004604 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:59:11] 0.052887 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:59:26] Energy consumed for RAM : 0.021208 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:59:26] Energy consumed for all GPUs : 0.028952 kWh. Total GPU Power : 262.39555874518544 W
+[codecarbon INFO @ 19:59:26] Energy consumed for all CPUs : 0.004781 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:59:26] 0.054942 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:59:41] Energy consumed for RAM : 0.021993 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:59:41] Energy consumed for all GPUs : 0.030031 kWh. Total GPU Power : 259.4711192722006 W
+[codecarbon INFO @ 19:59:41] Energy consumed for all CPUs : 0.004958 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:59:41] 0.056982 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 19:59:56] Energy consumed for RAM : 0.022779 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 19:59:56] Energy consumed for all GPUs : 0.031118 kWh. Total GPU Power : 261.23990960963295 W
+[codecarbon INFO @ 19:59:56] Energy consumed for all CPUs : 0.005135 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 19:59:56] 0.059033 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:00:11] Energy consumed for RAM : 0.023564 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:00:11] Energy consumed for all GPUs : 0.032213 kWh. Total GPU Power : 263.1171981182098 W
+[codecarbon INFO @ 20:00:11] Energy consumed for all CPUs : 0.005312 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:00:11] 0.061090 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:00:26] Energy consumed for RAM : 0.024350 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:00:26] Energy consumed for all GPUs : 0.033298 kWh. Total GPU Power : 260.61827599762785 W
+[codecarbon INFO @ 20:00:26] Energy consumed for all CPUs : 0.005490 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:00:26] 0.063138 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:00:41] Energy consumed for RAM : 0.025135 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:00:41] Energy consumed for all GPUs : 0.034382 kWh. Total GPU Power : 260.4168039962488 W
+[codecarbon INFO @ 20:00:41] Energy consumed for all CPUs : 0.005667 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:00:41] 0.065184 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:00:56] Energy consumed for RAM : 0.025921 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:00:56] Energy consumed for all GPUs : 0.035467 kWh. Total GPU Power : 260.5227785932935 W
+[codecarbon INFO @ 20:00:56] Energy consumed for all CPUs : 0.005844 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:00:56] 0.067231 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:01:11] Energy consumed for RAM : 0.026706 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:01:11] Energy consumed for all GPUs : 0.036552 kWh. Total GPU Power : 260.7060970169956 W
+[codecarbon INFO @ 20:01:11] Energy consumed for all CPUs : 0.006021 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:01:11] 0.069279 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:01:26] Energy consumed for RAM : 0.027492 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:01:26] Energy consumed for all GPUs : 0.037640 kWh. Total GPU Power : 261.3863418194359 W
+[codecarbon INFO @ 20:01:26] Energy consumed for all CPUs : 0.006198 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:01:26] 0.071330 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:01:41] Energy consumed for RAM : 0.028277 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:01:41] Energy consumed for all GPUs : 0.038725 kWh. Total GPU Power : 260.6462665480988 W
+[codecarbon INFO @ 20:01:41] Energy consumed for all CPUs : 0.006375 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:01:41] 0.073377 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:01:56] Energy consumed for RAM : 0.029062 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:01:56] Energy consumed for all GPUs : 0.039807 kWh. Total GPU Power : 260.22715532091456 W
+[codecarbon INFO @ 20:01:56] Energy consumed for all CPUs : 0.006552 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:01:56] 0.075421 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:02:11] Energy consumed for RAM : 0.029847 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:02:11] Energy consumed for all GPUs : 0.040893 kWh. Total GPU Power : 260.96319214568166 W
+[codecarbon INFO @ 20:02:11] Energy consumed for all CPUs : 0.006729 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:02:11] 0.077469 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:02:26] Energy consumed for RAM : 0.030633 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:02:26] Energy consumed for all GPUs : 0.041979 kWh. Total GPU Power : 261.0340864441857 W
+[codecarbon INFO @ 20:02:26] Energy consumed for all CPUs : 0.006906 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:02:26] 0.079518 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:02:41] Energy consumed for RAM : 0.031418 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:02:41] Energy consumed for all GPUs : 0.043064 kWh. Total GPU Power : 260.82715238554505 W
+[codecarbon INFO @ 20:02:41] Energy consumed for all CPUs : 0.007083 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:02:41] 0.081565 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:02:56] Energy consumed for RAM : 0.032203 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:02:56] Energy consumed for all GPUs : 0.044150 kWh. Total GPU Power : 260.8790898361011 W
+[codecarbon INFO @ 20:02:56] Energy consumed for all CPUs : 0.007260 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:02:56] 0.083613 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:03:11] Energy consumed for RAM : 0.032988 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:03:11] Energy consumed for all GPUs : 0.045234 kWh. Total GPU Power : 260.5933438807995 W
+[codecarbon INFO @ 20:03:11] Energy consumed for all CPUs : 0.007437 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:03:11] 0.085660 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:03:26] Energy consumed for RAM : 0.033774 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:03:26] Energy consumed for all GPUs : 0.046320 kWh. Total GPU Power : 260.8008271601899 W
+[codecarbon INFO @ 20:03:26] Energy consumed for all CPUs : 0.007614 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:03:26] 0.087709 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:03:41] Energy consumed for RAM : 0.034559 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:03:41] Energy consumed for all GPUs : 0.047404 kWh. Total GPU Power : 260.5553625757656 W
+[codecarbon INFO @ 20:03:41] Energy consumed for all CPUs : 0.007791 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:03:41] 0.089755 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:03:56] Energy consumed for RAM : 0.035345 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:03:56] Energy consumed for all GPUs : 0.048491 kWh. Total GPU Power : 261.1257162764805 W
+[codecarbon INFO @ 20:03:56] Energy consumed for all CPUs : 0.007969 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:03:56] 0.091805 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:04:11] Energy consumed for RAM : 0.036131 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:04:11] Energy consumed for all GPUs : 0.049578 kWh. Total GPU Power : 260.9305322776671 W
+[codecarbon INFO @ 20:04:11] Energy consumed for all CPUs : 0.008146 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:04:11] 0.093854 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:04:26] Energy consumed for RAM : 0.036916 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:04:26] Energy consumed for all GPUs : 0.050664 kWh. Total GPU Power : 260.98407239551983 W
+[codecarbon INFO @ 20:04:26] Energy consumed for all CPUs : 0.008323 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:04:26] 0.095903 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:04:41] Energy consumed for RAM : 0.037702 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:04:41] Energy consumed for all GPUs : 0.051755 kWh. Total GPU Power : 262.08207897559134 W
+[codecarbon INFO @ 20:04:41] Energy consumed for all CPUs : 0.008500 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:04:41] 0.097957 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:04:56] Energy consumed for RAM : 0.038487 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:04:56] Energy consumed for all GPUs : 0.052841 kWh. Total GPU Power : 260.8442740118234 W
+[codecarbon INFO @ 20:04:56] Energy consumed for all CPUs : 0.008677 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:04:56] 0.100005 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:05:11] Energy consumed for RAM : 0.039273 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:05:11] Energy consumed for all GPUs : 0.053923 kWh. Total GPU Power : 260.09973142645424 W
+[codecarbon INFO @ 20:05:11] Energy consumed for all CPUs : 0.008854 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:05:11] 0.102050 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:05:26] Energy consumed for RAM : 0.040058 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:05:26] Energy consumed for all GPUs : 0.055006 kWh. Total GPU Power : 259.930184818637 W
+[codecarbon INFO @ 20:05:26] Energy consumed for all CPUs : 0.009031 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:05:26] 0.104095 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:05:41] Energy consumed for RAM : 0.040843 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:05:41] Energy consumed for all GPUs : 0.056092 kWh. Total GPU Power : 261.2907518225359 W
+[codecarbon INFO @ 20:05:41] Energy consumed for all CPUs : 0.009208 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:05:41] 0.106144 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:05:56] Energy consumed for RAM : 0.041629 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:05:56] Energy consumed for all GPUs : 0.057177 kWh. Total GPU Power : 260.45965106286747 W
+[codecarbon INFO @ 20:05:56] Energy consumed for all CPUs : 0.009385 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:05:56] 0.108191 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:06:11] Energy consumed for RAM : 0.042414 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:06:11] Energy consumed for all GPUs : 0.058261 kWh. Total GPU Power : 260.6746940838329 W
+[codecarbon INFO @ 20:06:11] Energy consumed for all CPUs : 0.009562 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:06:11] 0.110237 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:06:26] Energy consumed for RAM : 0.043200 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:06:26] Energy consumed for all GPUs : 0.059342 kWh. Total GPU Power : 259.63009609833904 W
+[codecarbon INFO @ 20:06:26] Energy consumed for all CPUs : 0.009739 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:06:26] 0.112281 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:06:41] Energy consumed for RAM : 0.043985 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:06:41] Energy consumed for all GPUs : 0.060426 kWh. Total GPU Power : 260.36496559109906 W
+[codecarbon INFO @ 20:06:41] Energy consumed for all CPUs : 0.009916 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:06:41] 0.114328 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:06:56] Energy consumed for RAM : 0.044771 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:06:56] Energy consumed for all GPUs : 0.061505 kWh. Total GPU Power : 259.00594253885936 W
+[codecarbon INFO @ 20:06:56] Energy consumed for all CPUs : 0.010093 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:06:56] 0.116369 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:07:11] Energy consumed for RAM : 0.045556 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:07:11] Energy consumed for all GPUs : 0.062585 kWh. Total GPU Power : 259.64351192962005 W
+[codecarbon INFO @ 20:07:11] Energy consumed for all CPUs : 0.010270 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:07:11] 0.118412 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:07:26] Energy consumed for RAM : 0.046342 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:07:26] Energy consumed for all GPUs : 0.063666 kWh. Total GPU Power : 259.65811087638883 W
+[codecarbon INFO @ 20:07:26] Energy consumed for all CPUs : 0.010448 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:07:26] 0.120455 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:07:41] Energy consumed for RAM : 0.047127 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:07:41] Energy consumed for all GPUs : 0.064746 kWh. Total GPU Power : 259.57026790097973 W
+[codecarbon INFO @ 20:07:41] Energy consumed for all CPUs : 0.010625 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:07:41] 0.122498 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:07:56] Energy consumed for RAM : 0.047913 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:07:56] Energy consumed for all GPUs : 0.065811 kWh. Total GPU Power : 255.80880723100736 W
+[codecarbon INFO @ 20:07:56] Energy consumed for all CPUs : 0.010802 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:07:56] 0.124525 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:08:11] Energy consumed for RAM : 0.048698 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:08:11] Energy consumed for all GPUs : 0.066884 kWh. Total GPU Power : 257.7943973412851 W
+[codecarbon INFO @ 20:08:11] Energy consumed for all CPUs : 0.010979 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:08:11] 0.126561 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:08:26] Energy consumed for RAM : 0.049484 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:08:26] Energy consumed for all GPUs : 0.067957 kWh. Total GPU Power : 257.69365318651745 W
+[codecarbon INFO @ 20:08:26] Energy consumed for all CPUs : 0.011156 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:08:26] 0.128596 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:08:41] Energy consumed for RAM : 0.050269 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:08:41] Energy consumed for all GPUs : 0.069012 kWh. Total GPU Power : 253.6276630571294 W
+[codecarbon INFO @ 20:08:41] Energy consumed for all CPUs : 0.011333 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:08:41] 0.130614 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:08:56] Energy consumed for RAM : 0.051054 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:08:56] Energy consumed for all GPUs : 0.070084 kWh. Total GPU Power : 257.5601281066134 W
+[codecarbon INFO @ 20:08:56] Energy consumed for all CPUs : 0.011510 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:08:56] 0.132648 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:09:11] Energy consumed for RAM : 0.051840 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:09:11] Energy consumed for all GPUs : 0.071148 kWh. Total GPU Power : 255.6710139832062 W
+[codecarbon INFO @ 20:09:11] Energy consumed for all CPUs : 0.011687 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:09:11] 0.134675 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:09:26] Energy consumed for RAM : 0.052625 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:09:26] Energy consumed for all GPUs : 0.072208 kWh. Total GPU Power : 254.7277901083206 W
+[codecarbon INFO @ 20:09:26] Energy consumed for all CPUs : 0.011864 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:09:26] 0.136697 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:09:41] Energy consumed for RAM : 0.053410 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:09:41] Energy consumed for all GPUs : 0.073280 kWh. Total GPU Power : 257.8499664250285 W
+[codecarbon INFO @ 20:09:41] Energy consumed for all CPUs : 0.012041 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:09:41] 0.138731 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:09:56] Energy consumed for RAM : 0.054195 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:09:56] Energy consumed for all GPUs : 0.074340 kWh. Total GPU Power : 254.66409795238982 W
+[codecarbon INFO @ 20:09:56] Energy consumed for all CPUs : 0.012218 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:09:56] 0.140753 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:10:11] Energy consumed for RAM : 0.054981 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:10:11] Energy consumed for all GPUs : 0.075402 kWh. Total GPU Power : 255.1035074704716 W
+[codecarbon INFO @ 20:10:11] Energy consumed for all CPUs : 0.012395 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:10:11] 0.142778 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:10:26] Energy consumed for RAM : 0.055766 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:10:26] Energy consumed for all GPUs : 0.076476 kWh. Total GPU Power : 258.0636805221411 W
+[codecarbon INFO @ 20:10:26] Energy consumed for all CPUs : 0.012572 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:10:26] 0.144815 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:10:41] Energy consumed for RAM : 0.056552 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:10:41] Energy consumed for all GPUs : 0.077541 kWh. Total GPU Power : 255.70701951142038 W
+[codecarbon INFO @ 20:10:41] Energy consumed for all CPUs : 0.012750 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:10:41] 0.146842 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:10:56] Energy consumed for RAM : 0.057337 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:10:56] Energy consumed for all GPUs : 0.078608 kWh. Total GPU Power : 256.4794623516212 W
+[codecarbon INFO @ 20:10:56] Energy consumed for all CPUs : 0.012926 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:10:56] 0.148871 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:11:11] Energy consumed for RAM : 0.058123 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:11:11] Energy consumed for all GPUs : 0.079676 kWh. Total GPU Power : 256.4708120000714 W
+[codecarbon INFO @ 20:11:11] Energy consumed for all CPUs : 0.013104 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:11:11] 0.150902 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:11:26] Energy consumed for RAM : 0.058908 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:11:26] Energy consumed for all GPUs : 0.080743 kWh. Total GPU Power : 256.4139892459749 W
+[codecarbon INFO @ 20:11:26] Energy consumed for all CPUs : 0.013281 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:11:26] 0.152933 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:11:41] Energy consumed for RAM : 0.059694 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:11:41] Energy consumed for all GPUs : 0.081811 kWh. Total GPU Power : 256.3953710398296 W
+[codecarbon INFO @ 20:11:41] Energy consumed for all CPUs : 0.013458 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:11:41] 0.154962 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:11:56] Energy consumed for RAM : 0.060480 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:11:56] Energy consumed for all GPUs : 0.082888 kWh. Total GPU Power : 258.77551425762533 W
+[codecarbon INFO @ 20:11:56] Energy consumed for all CPUs : 0.013635 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:11:56] 0.157002 kWh of electricity used since the beginning.
+[codecarbon INFO @ 20:12:11] Energy consumed for RAM : 0.061265 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:12:11] Energy consumed for all GPUs : 0.083951 kWh. Total GPU Power : 255.48620889580747 W
+[codecarbon INFO @ 20:12:11] Energy consumed for all CPUs : 0.013812 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:12:11] 0.159028 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:12:26] Energy consumed for RAM : 0.062051 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:12:26] Energy consumed for all GPUs : 0.085014 kWh. Total GPU Power : 255.2371496189384 W
+[codecarbon INFO @ 20:12:26] Energy consumed for all CPUs : 0.013989 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:12:26] 0.161053 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:12:41] Energy consumed for RAM : 0.062835 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:12:41] Energy consumed for all GPUs : 0.086097 kWh. Total GPU Power : 260.44982854221587 W
+[codecarbon INFO @ 20:12:41] Energy consumed for all CPUs : 0.014166 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:12:41] 0.163099 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:12:56] Energy consumed for RAM : 0.063621 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:12:56] Energy consumed for all GPUs : 0.087180 kWh. Total GPU Power : 260.13011605379324 W
+[codecarbon INFO @ 20:12:56] Energy consumed for all CPUs : 0.014343 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:12:56] 0.165144 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:13:11] Energy consumed for RAM : 0.064407 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:13:11] Energy consumed for all GPUs : 0.088267 kWh. Total GPU Power : 261.2910473642238 W
+[codecarbon INFO @ 20:13:11] Energy consumed for all CPUs : 0.014520 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:13:11] 0.167194 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:13:26] Energy consumed for RAM : 0.065192 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:13:26] Energy consumed for all GPUs : 0.089352 kWh. Total GPU Power : 260.41009470961154 W
+[codecarbon INFO @ 20:13:26] Energy consumed for all CPUs : 0.014697 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:13:26] 0.169241 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:13:41] Energy consumed for RAM : 0.065978 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:13:41] Energy consumed for all GPUs : 0.090442 kWh. Total GPU Power : 261.8452827758517 W
+[codecarbon INFO @ 20:13:41] Energy consumed for all CPUs : 0.014874 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:13:41] 0.171294 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:13:56] Energy consumed for RAM : 0.066763 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:13:56] Energy consumed for all GPUs : 0.091534 kWh. Total GPU Power : 262.48019337030985 W
+[codecarbon INFO @ 20:13:56] Energy consumed for all CPUs : 0.015051 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:13:56] 0.173349 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:14:11] Energy consumed for RAM : 0.067549 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:14:11] Energy consumed for all GPUs : 0.092620 kWh. Total GPU Power : 260.90461623119216 W
+[codecarbon INFO @ 20:14:11] Energy consumed for all CPUs : 0.015228 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:14:11] 0.175397 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:14:26] Energy consumed for RAM : 0.068335 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:14:26] Energy consumed for all GPUs : 0.093703 kWh. Total GPU Power : 260.0155313387182 W
+[codecarbon INFO @ 20:14:26] Energy consumed for all CPUs : 0.015406 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:14:26] 0.177443 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:14:41] Energy consumed for RAM : 0.069119 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:14:41] Energy consumed for all GPUs : 0.094787 kWh. Total GPU Power : 260.64216728803217 W
+[codecarbon INFO @ 20:14:41] Energy consumed for all CPUs : 0.015583 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:14:41] 0.179489 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:14:56] Energy consumed for RAM : 0.069905 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:14:56] Energy consumed for all GPUs : 0.095871 kWh. Total GPU Power : 260.4077793109257 W
+[codecarbon INFO @ 20:14:56] Energy consumed for all CPUs : 0.015760 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:14:56] 0.181536 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:15:11] Energy consumed for RAM : 0.070690 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:15:11] Energy consumed for all GPUs : 0.096956 kWh. Total GPU Power : 260.790013310743 W
+[codecarbon INFO @ 20:15:11] Energy consumed for all CPUs : 0.015937 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:15:11] 0.183583 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:15:26] Energy consumed for RAM : 0.071475 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:15:26] Energy consumed for all GPUs : 0.098042 kWh. Total GPU Power : 260.92492384212073 W
+[codecarbon INFO @ 20:15:26] Energy consumed for all CPUs : 0.016114 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:15:26] 0.185631 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:15:41] Energy consumed for RAM : 0.072261 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:15:41] Energy consumed for all GPUs : 0.099130 kWh. Total GPU Power : 261.51353632103957 W
+[codecarbon INFO @ 20:15:41] Energy consumed for all CPUs : 0.016291 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:15:41] 0.187681 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:15:56] Energy consumed for RAM : 0.073045 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:15:56] Energy consumed for all GPUs : 0.100215 kWh. Total GPU Power : 261.04670170233055 W
+[codecarbon INFO @ 20:15:56] Energy consumed for all CPUs : 0.016468 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:15:56] 0.189729 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:16:11] Energy consumed for RAM : 0.073831 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:16:11] Energy consumed for all GPUs : 0.101298 kWh. Total GPU Power : 260.18436333215493 W
+[codecarbon INFO @ 20:16:11] Energy consumed for all CPUs : 0.016645 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:16:11] 0.191774 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:16:26] Energy consumed for RAM : 0.074616 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:16:26] Energy consumed for all GPUs : 0.102383 kWh. Total GPU Power : 260.75027325633073 W
+[codecarbon INFO @ 20:16:26] Energy consumed for all CPUs : 0.016822 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:16:26] 0.193821 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:16:41] Energy consumed for RAM : 0.075402 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:16:41] Energy consumed for all GPUs : 0.103468 kWh. Total GPU Power : 260.533593268259 W
+[codecarbon INFO @ 20:16:41] Energy consumed for all CPUs : 0.016999 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:16:41] 0.195868 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:16:56] Energy consumed for RAM : 0.076187 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:16:56] Energy consumed for all GPUs : 0.104551 kWh. Total GPU Power : 260.3855601166463 W
+[codecarbon INFO @ 20:16:56] Energy consumed for all CPUs : 0.017176 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:16:56] 0.197915 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:17:11] Energy consumed for RAM : 0.076973 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:17:11] Energy consumed for all GPUs : 0.105638 kWh. Total GPU Power : 260.9228917762159 W
+[codecarbon INFO @ 20:17:11] Energy consumed for all CPUs : 0.017353 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:17:11] 0.199963 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:17:26] Energy consumed for RAM : 0.077758 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:17:26] Energy consumed for all GPUs : 0.106725 kWh. Total GPU Power : 261.23779599311194 W
+[codecarbon INFO @ 20:17:26] Energy consumed for all CPUs : 0.017531 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:17:26] 0.202013 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:17:41] Energy consumed for RAM : 0.078543 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:17:41] Energy consumed for all GPUs : 0.107808 kWh. Total GPU Power : 260.5611051205694 W
+[codecarbon INFO @ 20:17:41] Energy consumed for all CPUs : 0.017708 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:17:41] 0.204058 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:17:56] Energy consumed for RAM : 0.079328 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:17:56] Energy consumed for all GPUs : 0.108892 kWh. Total GPU Power : 260.45976622417356 W
+[codecarbon INFO @ 20:17:56] Energy consumed for all CPUs : 0.017885 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:17:56] 0.206104 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:18:11] Energy consumed for RAM : 0.080113 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:18:11] Energy consumed for all GPUs : 0.109975 kWh. Total GPU Power : 260.4439110459978 W
+[codecarbon INFO @ 20:18:11] Energy consumed for all CPUs : 0.018062 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:18:11] 0.208150 kWh of electricity used since the beginning.
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+[codecarbon INFO @ 20:18:20] Energy consumed for RAM : 0.080595 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 20:18:20] Energy consumed for all GPUs : 0.110643 kWh. Total GPU Power : 261.3657577703368 W
+[codecarbon INFO @ 20:18:20] Energy consumed for all CPUs : 0.018170 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 20:18:20] 0.209408 kWh of electricity used since the beginning.
+
+Start of code time:  1715626356.6188903
+Emissions for this code execution is:  0.054687992131657204
+End of code time:  1715627900.411106

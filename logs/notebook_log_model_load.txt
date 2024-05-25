@@ -1,0 +1,26 @@
+[codecarbon WARNING @ 18:49:07] Invalid gpu_ids format. Expected a string or a list of ints.
+[codecarbon INFO @ 18:49:07] [setup] RAM Tracking...
+[codecarbon INFO @ 18:49:07] [setup] GPU Tracking...
+[codecarbon INFO @ 18:49:07] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 18:49:07] [setup] CPU Tracking...
+[codecarbon WARNING @ 18:49:07] No CPU tracking mode found. Falling back on CPU constant mode.
+Start of model load code time:  1715708947.8177793
+[codecarbon WARNING @ 18:49:09] We saw that you have a Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz but we don't know it. Please contact us.
+[codecarbon INFO @ 18:49:09] CPU Model on constant consumption mode: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 18:49:09] >>> Tracker's metadata:
+[codecarbon INFO @ 18:49:09]   Platform system: Linux-5.4.0-174-generic-x86_64-with-glibc2.31
+[codecarbon INFO @ 18:49:09]   Python version: 3.12.1
+[codecarbon INFO @ 18:49:09]   CodeCarbon version: 2.4.1
+[codecarbon INFO @ 18:49:09]   Available RAM : 503.339 GB
+[codecarbon INFO @ 18:49:09]   CPU count: 112
+[codecarbon INFO @ 18:49:09]   CPU model: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 18:49:09]   GPU count: 2
+[codecarbon INFO @ 18:49:09]   GPU model: 2 x NVIDIA A40
+Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.32it/s]
+Using device: cuda
+[codecarbon INFO @ 18:49:19] Energy consumed for RAM : 0.000349 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 18:49:19] Energy consumed for all GPUs : 0.000146 kWh. Total GPU Power : 78.9856503518464 W
+[codecarbon INFO @ 18:49:19] Energy consumed for all CPUs : 0.000079 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 18:49:19] 0.000573 kWh of electricity used since the beginning.
+Emissions for model load:  0.00014970047320865556
+End of model load code time:  1715708959.0875745
