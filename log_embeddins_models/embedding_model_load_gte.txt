@@ -1,0 +1,26 @@
+/home/c7361293/miniconda3/envs/triztest/lib/python3.12/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+[codecarbon WARNING @ 13:37:08] Invalid gpu_ids format. Expected a string or a list of ints.
+[codecarbon INFO @ 13:37:08] [setup] RAM Tracking...
+[codecarbon INFO @ 13:37:08] [setup] GPU Tracking...
+[codecarbon INFO @ 13:37:08] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 13:37:08] [setup] CPU Tracking...
+[codecarbon WARNING @ 13:37:08] No CPU tracking mode found. Falling back on CPU constant mode.
+Start of code time:  1717936628.072775
+[codecarbon WARNING @ 13:37:09] We saw that you have a Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz but we don't know it. Please contact us.
+[codecarbon INFO @ 13:37:09] CPU Model on constant consumption mode: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 13:37:09] >>> Tracker's metadata:
+[codecarbon INFO @ 13:37:09]   Platform system: Linux-5.4.0-182-generic-x86_64-with-glibc2.31
+[codecarbon INFO @ 13:37:09]   Python version: 3.12.1
+[codecarbon INFO @ 13:37:09]   CodeCarbon version: 2.4.1
+[codecarbon INFO @ 13:37:09]   Available RAM : 503.339 GB
+[codecarbon INFO @ 13:37:09]   CPU count: 112
+[codecarbon INFO @ 13:37:09]   CPU model: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 13:37:09]   GPU count: 2
+[codecarbon INFO @ 13:37:09]   GPU model: 2 x NVIDIA A40
+[codecarbon INFO @ 13:37:16] Energy consumed for RAM : 0.000194 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 13:37:16] Energy consumed for all GPUs : 0.000157 kWh. Total GPU Power : 152.3983515648166 W
+[codecarbon INFO @ 13:37:16] Energy consumed for all CPUs : 0.000044 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 13:37:16] 0.000394 kWh of electricity used since the beginning.
+Emissions for this code execution is:  0.00010298390780122968
+End of code time:  1717936636.3094742

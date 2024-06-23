@@ -3,3 +3,12 @@ patents_csv/
 chroma_db/
 db/
 db_triz/
+db_baai/
+db_biodegradabletest/
+db_claims/
+db_coppertest/
+db_gte_large_en/
+db_patriz/
+db_snowflake_arctic
+
+

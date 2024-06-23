@@ -1,0 +1,36 @@
+Load time Log
+
+/home/c7361293/miniconda3/envs/triztest/lib/python3.12/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+[codecarbon WARNING @ 14:03:30] Invalid gpu_ids format. Expected a string or a list of ints.
+[codecarbon INFO @ 14:03:30] [setup] RAM Tracking...
+[codecarbon INFO @ 14:03:30] [setup] GPU Tracking...
+[codecarbon INFO @ 14:03:30] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 14:03:30] [setup] CPU Tracking...
+[codecarbon WARNING @ 14:03:30] No CPU tracking mode found. Falling back on CPU constant mode.
+Start of code time:  1717938210.5578606
+[codecarbon WARNING @ 14:03:31] We saw that you have a Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz but we don't know it. Please contact us.
+[codecarbon INFO @ 14:03:31] CPU Model on constant consumption mode: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 14:03:31] >>> Tracker's metadata:
+[codecarbon INFO @ 14:03:31]   Platform system: Linux-5.4.0-182-generic-x86_64-with-glibc2.31
+[codecarbon INFO @ 14:03:31]   Python version: 3.12.1
+[codecarbon INFO @ 14:03:31]   CodeCarbon version: 2.4.1
+[codecarbon INFO @ 14:03:31]   Available RAM : 503.339 GB
+[codecarbon INFO @ 14:03:31]   CPU count: 112
+[codecarbon INFO @ 14:03:31]   CPU model: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 14:03:31]   GPU count: 2
+[codecarbon INFO @ 14:03:31]   GPU model: 2 x NVIDIA A40
+You try to use a model that was created with version 2.7.0.dev0, however, your version is 2.6.1. This might cause unexpected behavior or errors. In that case, try to update to the latest version.
+
+
+
+[codecarbon INFO @ 14:03:50] Energy consumed for RAM : 0.000787 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 14:03:50] Energy consumed for all GPUs : 0.000632 kWh. Total GPU Power : 151.58313329785233 W
+[codecarbon INFO @ 14:03:50] Energy consumed for all CPUs : 0.000177 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 14:03:50] 0.001597 kWh of electricity used since the beginning.
+[codecarbon INFO @ 14:04:00] Energy consumed for RAM : 0.001303 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 14:04:00] Energy consumed for all GPUs : 0.001048 kWh. Total GPU Power : 151.84525251633195 W
+[codecarbon INFO @ 14:04:00] Energy consumed for all CPUs : 0.000294 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 14:04:00] 0.002645 kWh of electricity used since the beginning.
+Emissions for this code execution is:  0.000690842153488069
+End of code time:  1717938240.165951

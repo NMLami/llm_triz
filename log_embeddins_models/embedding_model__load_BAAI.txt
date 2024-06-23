@@ -1,0 +1,26 @@
+[codecarbon WARNING @ 14:25:43] Invalid gpu_ids format. Expected a string or a list of ints.
+[codecarbon INFO @ 14:25:43] [setup] RAM Tracking...
+[codecarbon INFO @ 14:25:43] [setup] GPU Tracking...
+[codecarbon INFO @ 14:25:43] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 14:25:43] [setup] CPU Tracking...
+[codecarbon WARNING @ 14:25:43] No CPU tracking mode found. Falling back on CPU constant mode.
+Start of code time:  1717939543.9716089
+[codecarbon WARNING @ 14:25:45] We saw that you have a Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz but we don't know it. Please contact us.
+[codecarbon INFO @ 14:25:45] CPU Model on constant consumption mode: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 14:25:45] >>> Tracker's metadata:
+[codecarbon INFO @ 14:25:45]   Platform system: Linux-5.4.0-182-generic-x86_64-with-glibc2.31
+[codecarbon INFO @ 14:25:45]   Python version: 3.12.1
+[codecarbon INFO @ 14:25:45]   CodeCarbon version: 2.4.1
+[codecarbon INFO @ 14:25:45]   Available RAM : 503.339 GB
+[codecarbon INFO @ 14:25:45]   CPU count: 112
+[codecarbon INFO @ 14:25:45]   CPU model: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 14:25:45]   GPU count: 2
+[codecarbon INFO @ 14:25:45]   GPU model: 2 x NVIDIA A40
+/home/c7361293/miniconda3/envs/triztest/lib/python3.12/site-packages/tqdm/auto.py:21: TqdmWarning: IProgress not found. Please update jupyter and ipywidgets. See https://ipywidgets.readthedocs.io/en/stable/user_install.html
+  from .autonotebook import tqdm as notebook_tqdm
+[codecarbon INFO @ 14:25:52] Energy consumed for RAM : 0.000238 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 14:25:53] Energy consumed for all GPUs : 0.000193 kWh. Total GPU Power : 152.99581084801582 W
+[codecarbon INFO @ 14:25:53] Energy consumed for all CPUs : 0.000054 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 14:25:53] 0.000486 kWh of electricity used since the beginning.
+Emissions for this code execution is:  0.00012686969649158486
+End of code time:  1717939553.0241168

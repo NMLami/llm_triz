@@ -1,0 +1,32 @@
+[codecarbon WARNING @ 14:31:08] Invalid gpu_ids format. Expected a string or a list of ints.
+[codecarbon INFO @ 14:31:08] [setup] RAM Tracking...
+[codecarbon INFO @ 14:31:08] [setup] GPU Tracking...
+[codecarbon INFO @ 14:31:08] Tracking Nvidia GPU via pynvml
+[codecarbon INFO @ 14:31:08] [setup] CPU Tracking...
+[codecarbon WARNING @ 14:31:08] No CPU tracking mode found. Falling back on CPU constant mode.
+Start of code time:  1717939868.1283393
+[codecarbon WARNING @ 14:31:09] We saw that you have a Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz but we don't know it. Please contact us.
+[codecarbon INFO @ 14:31:09] CPU Model on constant consumption mode: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 14:31:09] >>> Tracker's metadata:
+[codecarbon INFO @ 14:31:09]   Platform system: Linux-5.4.0-182-generic-x86_64-with-glibc2.31
+[codecarbon INFO @ 14:31:09]   Python version: 3.12.1
+[codecarbon INFO @ 14:31:09]   CodeCarbon version: 2.4.1
+[codecarbon INFO @ 14:31:09]   Available RAM : 503.339 GB
+[codecarbon INFO @ 14:31:09]   CPU count: 112
+[codecarbon INFO @ 14:31:09]   CPU model: Intel(R) Xeon(R) Gold 6330 CPU @ 2.00GHz
+[codecarbon INFO @ 14:31:09]   GPU count: 2
+[codecarbon INFO @ 14:31:09]   GPU model: 2 x NVIDIA A40
+[codecarbon INFO @ 14:31:27] Energy consumed for RAM : 0.000787 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 14:31:27] Energy consumed for all GPUs : 0.001498 kWh. Total GPU Power : 358.9451050588101 W
+[codecarbon INFO @ 14:31:27] Energy consumed for all CPUs : 0.000177 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 14:31:27] 0.002462 kWh of electricity used since the beginning.
+[codecarbon INFO @ 14:31:42] Energy consumed for RAM : 0.001572 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 14:31:42] Energy consumed for all GPUs : 0.003062 kWh. Total GPU Power : 375.875217671436 W
+[codecarbon INFO @ 14:31:42] Energy consumed for all CPUs : 0.000355 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 14:31:42] 0.004989 kWh of electricity used since the beginning.
+[codecarbon INFO @ 14:31:48] Energy consumed for RAM : 0.001891 kWh. RAM Power : 188.75217247009277 W
+[codecarbon INFO @ 14:31:48] Energy consumed for all GPUs : 0.003394 kWh. Total GPU Power : 196.6105758471361 W
+[codecarbon INFO @ 14:31:48] Energy consumed for all CPUs : 0.000426 kWh. Total CPU Power : 42.5 W
+[codecarbon INFO @ 14:31:48] 0.005711 kWh of electricity used since the beginning.
+Emissions for this code execution is:  0.0014915851491853161
+End of code time:  1717939908.7568922
